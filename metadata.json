@@ -1,6 +1,6 @@
 {
-  "name": "Elicia Rose Wix Tutorial Voiceover Generator",
-  "description": "Generate and download studio male voiceover MP3 audio files for all 9 scenes of the Elicia Rose Wix tutorial video.",
+  "name": "Voiceover Pro",
+  "description": "Marketing voice studio: turn a product brief into scene-by-scene ad copy and generate voiceovers with marketing personalities using Gemini.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
