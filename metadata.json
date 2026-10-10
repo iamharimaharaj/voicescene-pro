@@ -1,0 +1,6 @@
+{
+  "name": "Elicia Rose Wix Tutorial Voiceover Generator",
+  "description": "Generate and download studio male voiceover MP3 audio files for all 9 scenes of the Elicia Rose Wix tutorial video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
